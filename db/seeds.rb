@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+Tdlist.create(title: "Schedule meetings: IT, Accounts, HR", done: false)
+Tdlist.create(title: "Visit children's home: perform duties", done: false)
