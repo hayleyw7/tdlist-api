@@ -2,6 +2,8 @@
 
 This is practice from a Section article called "[How to Integrate a React Application With Rails API](https://www.section.io/engineering-education/how-to-integrate-a-react-application-with-rails-api/)".
 
+**[CLICK HERE TO VIEW THE API IN USE ON THE LIVE APPLICATION.](https://tdlist.surge.sh/)**
+
 [The API deployment can be accessed here.](https://tdlist-api.herokuapp.com/api/version1/tdlists)
 
 ## Example
